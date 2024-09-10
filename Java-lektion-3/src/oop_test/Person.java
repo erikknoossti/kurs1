@@ -6,6 +6,7 @@ class Person {
     private int age;
     private String name;
     private String city;
+    private
 
 
     public Person(String person, int age, String name, String city) {
