@@ -22,5 +22,10 @@ class cat {
         System.out.println(" color " + color + " year " + year + " breed " + breed);
     }
 
+    public void setColor(String color) {
+        this.color = color;
+        System.out.println("katten är " + color);
+    }
+
 
 }

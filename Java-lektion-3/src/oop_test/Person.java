@@ -2,25 +2,23 @@ package oop_test;
 
 class Person {
 
-    private String Person;
-    private int age;
     private String name;
+    private int age;
     private String city;
-    private
 
 
-    public Person(String person, int age, String name, String city) {
-        this.Person = person;
-        this.age = age;
+    public Person(String name, int age, String city){
         this.name = name;
+        this.age = age;
         this.city = city;
 
     }
 
-        public void show(){
-            System.out.println("Person: " + Person + ", age: " + age + ", name: " + name + ", city: " + city);
-        }
-
+    public void show(){
+        System.out.println("name: " + name);
+        System.out.println("age: " + age);
+        System.out.println("city: " + city);
+    }
 
 
     }

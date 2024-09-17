@@ -2,7 +2,24 @@ package se.ErikKnöös.arrays;
 
 public class ArrayExercise {
     public static void main(String[] args) {
-int[] num = {1, 2, 3, 4, 5};
-        System.out.println(num[2]);
+
+
+        int[] numbers = new int[100];
+        int n = 1;
+
+
+        for (int i = 0; i < 100; i++) {
+            numbers[i] = n++;
+
+        }
+
+        for (int i = 0; i < 100; i++) {
+            System.out.println(numbers[i]);
+
+        }
+
+
     }
+
+
 }
