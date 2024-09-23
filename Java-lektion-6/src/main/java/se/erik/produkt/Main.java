@@ -16,7 +16,7 @@ public class Main {
         Order order1 = new Order(customer1, products);
         Order order2 = new Order(customer1, products2);
 
-        order1.printOrder(customer1, products);
+        order1.printOrder(customer1, products2);
 
 
         }
