@@ -1,5 +1,5 @@
 package se.erik.projektuppgift;
-import java.util.Scanner;
+import java.util.Random;
 public class Player {
     private String name;
 
@@ -9,12 +9,15 @@ public class Player {
     public String getPlayer(){
         return this.name;
     }
-    public void getName(){
-        System.out.println();
+    static void print1(){
+        System.out.println("Player1: ");
+    }
+    static void print2(){
+        System.out.println("Player2: ");
     }
 
-
     }
+
 
 
 
