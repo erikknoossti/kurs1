@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="20bfb6cf-8682-4c8f-9e97-26110bc3f224" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java-lektion-3/src/oop_test/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-lektion-3/src/oop_test/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java-lektion-3/src/se/erik/oop/Bil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-lektion-3/src/se/erik/oop/Bil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Java-lektion-3/src/se/erik/oop/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-lektion-3/src/se/erik/oop/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjektUppgift-JavaA/src/main/java/projektTest/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjektUppgift-JavaA/src/main/java/projektTest/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjektUppgift-JavaA/src/main/java/projektTest/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjektUppgift-JavaA/src/main/java/projektTest/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjektUppgift-JavaA/src/main/java/projektTest/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjektUppgift-JavaA/src/main/java/projektTest/Player.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,8 +98,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.21829.142" />
-        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-IU-242.21829.142" />
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23339.11" />
       </set>
     </attachedChunks>
   </component>
@@ -118,6 +117,7 @@
       <workItem from="1725967841545" duration="3000" />
       <workItem from="1725967877457" duration="63000" />
       <workItem from="1725968313223" duration="37000" />
+      <workItem from="1730105449601" duration="3000" />
     </task>
     <servers />
   </component>
